@@ -4,7 +4,7 @@
 
 <h3><strong>Disciplina:</strong> Estrutura de dados</h3>
 
-<h4><strong>Curso:</strong> Análise e Desenvolvimento de Sistemas - IFSP</h4>
+<h3><strong>Curso:</strong> Análise e Desenvolvimento de Sistemas - IFSP</h3>
 
 
 
