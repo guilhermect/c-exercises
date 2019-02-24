@@ -12,7 +12,7 @@ int main(){
     printf("Horas trabalhadas: ");
     scanf("%d", &horasTrabalhadas);
 
-    total = (valorHora * horasTrabalhadas) + ((valorHora * horasTrabalhadas) * 0.1);;
+    total = (valorHora * horasTrabalhadas) * 1.1;
 
     printf("Valor total: R$%.2f",total);
 
